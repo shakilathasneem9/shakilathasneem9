@@ -68,9 +68,8 @@ Designing intuitive interfaces, user flows, wireframes, and interactive prototyp
 
 ## 📫 Connect With Me
 
-- LinkedIn: Your LinkedIn
-- Portfolio: Your Portfolio
-- Email: Your Email
+- LinkedIn: www.linkedin.com/in/thasneem-s1102
+- Email: shakilathasneem9@gmail.com
 
 Thanks for stopping by! ⭐
 
