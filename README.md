@@ -1,6 +1,6 @@
 # Hey there! 👋
 
-I'm thasneem, a Computer Science student passionate about building intelligent and user-centered digital experiences.
+I'm thasneem, a Computer Science(AIML) student passionate about building intelligent and user-centered digital experiences.
 
 I enjoy combining Machine Learning, Software Engineering, and UI/UX Design to create solutions that are both technically strong and intuitive for users.
 
