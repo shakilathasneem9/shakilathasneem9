@@ -67,9 +67,8 @@ Designing intuitive interfaces, user flows, wireframes, and interactive prototyp
 - 🎯 Goal: Become an AI Engineer who builds impactful and user-friendly products
 
 ## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shakilathasneem9&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shakilathasneem9&show_icons=true&cache_seconds=1800" />
 </p>
 
 <p align="center">
@@ -77,10 +76,8 @@ Designing intuitive interfaces, user flows, wireframes, and interactive prototyp
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shakilathasneem9" />
+  <img src="https://streak-stats.demolab.com?user=shakilathasneem9" />
 </p>
-
----
 
 ## 📫 Connect With Me
 
