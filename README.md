@@ -66,6 +66,22 @@ Designing intuitive interfaces, user flows, wireframes, and interactive prototyp
 - 📖 Passionate about technology and innovation
 - 🎯 Goal: Become an AI Engineer who builds impactful and user-friendly products
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shakilathasneem9&show_icons=true&theme=default" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakilathasneem9&layout=compact" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shakilathasneem9" />
+</p>
+
+---
+
 ## 📫 Connect With Me
 
 - LinkedIn: www.linkedin.com/in/thasneem-s1102
