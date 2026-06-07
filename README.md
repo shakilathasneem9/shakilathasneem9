@@ -68,11 +68,11 @@ Designing intuitive interfaces, user flows, wireframes, and interactive prototyp
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shakilathasneem9&show_icons=true&cache_seconds=1800" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shakilathasneem9&show_icons=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakilathasneem9&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakilathasneem9&layout=compact" />
 </p>
 
 <p align="center">
