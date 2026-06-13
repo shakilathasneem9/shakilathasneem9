@@ -30,6 +30,7 @@ technically rigorous and intuitively usable.</em></p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,pytorch,git,github,vscode,figma&theme=dark" />
 </p>
+---
 
 ## 🛠️ Tech Stack
 
