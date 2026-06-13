@@ -99,8 +99,15 @@ Intuitive interfaces, user flows, wireframes, and interactive prototypes — foc
 
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=flat&logo=linkedin&logoColor=0077b5)](https://www.linkedin.com/in/thasneem-s1102)
-[![Email](https://img.shields.io/badge/Email-0d1117?style=flat&logo=gmail&logoColor=ea4335)](mailto:shakilathasneem9@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/thasneem-s1102">
+    <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:shakilathasneem9@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-ea4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 
 </div>
