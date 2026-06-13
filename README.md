@@ -28,7 +28,7 @@ technically rigorous and intuitively usable.</em></p>
 
 ##  skill Map
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,git,github,vscode,jupyter,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,git,github,vscode,figma&theme=dark" />
 </p>
 
 ## 🛠️ Tech Stack
