@@ -37,29 +37,32 @@ technically rigorous and intuitively usable.</em></p>
 </p>
 ---
 
-## 🛠️ Tech Stack
+<div align="center">
+
+## ⚙️ Tech Stack
 
 **AI & Programming**
 
-![Python](https://img.shields.io/badge/Python-0d1117?style=flat&logo=python&logoColor=00bcd4)
-![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=flat&logo=pytorch&logoColor=ee4c2c)
-![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=flat&logo=numpy&logoColor=00bcd4)
-![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=flat&logo=pandas&logoColor=00bcd4)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-0d1117?style=flat&logo=scikit-learn&logoColor=f7931e)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-0d1117?style=flat&logo=python&logoColor=00bcd4)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
 
 **Development & Tools**
 
-![Git](https://img.shields.io/badge/Git-0d1117?style=flat&logo=git&logoColor=f05032)
-![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=flat&logo=github&logoColor=ffffff)
-![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=flat&logo=visualstudiocode&logoColor=007acc)
-![Jupyter](https://img.shields.io/badge/Jupyter-0d1117?style=flat&logo=jupyter&logoColor=f37626)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 **Design & Product**
 
-![Figma](https://img.shields.io/badge/Figma-0d1117?style=flat&logo=figma&logoColor=a259ff)
-![Canva](https://img.shields.io/badge/Canva-0d1117?style=flat&logo=canva&logoColor=00c4cc)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
+</div>
 ## 🌟 Featured Projects
 
 ### 🧬 MR-Prioritization for Machine Learning
