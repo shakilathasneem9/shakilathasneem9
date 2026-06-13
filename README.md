@@ -1,8 +1,21 @@
-# Hi, I'm Thasneem 👋
+<!-- ============================================================
+     THASNEEM — GitHub Profile README
+     Paste this into: thasneem-s1102/thasneem-s1102/README.md
+     ============================================================ -->
 
-> **AI/ML Engineer · Software Developer · UX Designer**
+<div align="center">
 
-CS (AIML) student passionate about building intelligent, user-centered digital experiences. I bridge the gap between machine learning, software engineering, and design — creating solutions that are both technically rigorous and intuitively usable.
+<!-- Typing SVG header -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00BCD4¢er=true&vCenter=true&width=600&lines=Hi%2C+I'm+Thasneem+%F0%9F%91%8B;AI%2FML+Engineer+in+the+making;Software+Developer+%7C+UX+Designer;Building+intelligent+experiences)](https://git.io/typing-svg)
+
+<p><em>CS (AIML) student passionate about building intelligent, user-centered digital experiences.<br>
+I bridge machine learning, software engineering, and design — creating solutions that are<br>
+technically rigorous and intuitively usable.</em></p>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=flat&logo=linkedin&logoColor=0077b5)](https://www.linkedin.com/in/thasneem-s1102)
+[![Email](https://img.shields.io/badge/Email-0d1117?style=flat&logo=gmail&logoColor=ea4335)](mailto:shakilathasneem9@gmail.com)
+
+</div>
 
 ---
 
@@ -47,11 +60,6 @@ Intuitive interfaces, user flows, wireframes, and interactive prototypes — foc
 
 ---
 
-## 🎯 Goal
-
-Become an AI Engineer who builds products that are not just intelligent — but genuinely helpful, accessible, and delightful to use.
-
----
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -63,10 +71,11 @@ Become an AI Engineer who builds products that are not just intelligent — but 
   <img src="https://streak-stats.demolab.com?user=thasneem-s1102&theme=tokyonight&hide_border=true&background=0d1117&ring=00bcd4&fire=00bcd4&currStreakLabel=00bcd4" />
 </p>
 
-## 📫 Connect
+---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=flat&logo=linkedin&logoColor=0077b5)](https://www.linkedin.com/in/thasneem-s1102)
-[![Email](https://img.shields.io/badge/Email-0d1117?style=flat&logo=gmail&logoColor=ea4335)](mailto:shakilathasneem9@gmail.com)
+## 🎯 Goal
+
+> Become an AI Engineer who builds products that are not just intelligent — but genuinely helpful, accessible, and delightful to use.
 
 ---
 
