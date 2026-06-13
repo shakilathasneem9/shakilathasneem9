@@ -15,8 +15,6 @@ technically rigorous and intuitively usable.</em></p>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=flat&logo=linkedin&logoColor=0077b5)](https://www.linkedin.com/in/thasneem-s1102)
 [![Email](https://img.shields.io/badge/Email-0d1117?style=flat&logo=gmail&logoColor=ea4335)](mailto:shakilathasneem9@gmail.com)
 
-</div>
-
 ---
 
 ## 🔭 Currently Exploring
@@ -30,19 +28,28 @@ technically rigorous and intuitively usable.</em></p>
 
 ## 🛠️ Tech Stack
 
+## 🛠️ Tech Stack
+
 **AI & Programming**
 
 ![Python](https://img.shields.io/badge/Python-0d1117?style=flat&logo=python&logoColor=00bcd4)
 ![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=flat&logo=pytorch&logoColor=ee4c2c)
 ![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=flat&logo=numpy&logoColor=00bcd4)
 ![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=flat&logo=pandas&logoColor=00bcd4)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-0d1117?style=flat&logo=scikit-learn&logoColor=f7931e)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-0d1117?style=flat&logo=python&logoColor=00bcd4)
+
+**Development & Tools**
+
 ![Git](https://img.shields.io/badge/Git-0d1117?style=flat&logo=git&logoColor=f05032)
+![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=flat&logo=github&logoColor=ffffff)
+![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=flat&logo=visualstudiocode&logoColor=007acc)
+![Jupyter](https://img.shields.io/badge/Jupyter-0d1117?style=flat&logo=jupyter&logoColor=f37626)
 
 **Design & Product**
 
 ![Figma](https://img.shields.io/badge/Figma-0d1117?style=flat&logo=figma&logoColor=a259ff)
-
----
+![Canva](https://img.shields.io/badge/Canva-0d1117?style=flat&logo=canva&logoColor=00c4cc)
 
 ## 🌟 Featured Projects
 
@@ -59,8 +66,6 @@ Intuitive interfaces, user flows, wireframes, and interactive prototypes — foc
 `Figma` `Product Design` `UX Research`
 
 ---
-
-## 📊 GitHub Stats
 
 ## 📊 GitHub Stats
 
