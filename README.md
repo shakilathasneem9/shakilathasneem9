@@ -1,3 +1,8 @@
+<div align="center">
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=00bcd4&height=200&section=header&text=Hi,%20I'm%20Thasneem%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI/ML%20Engineer%20·%20Software%20Developer%20·%20UX%20Designer&descAlignY=55&descSize=16)
+
+</div>
 <!-- ============================================================
      THASNEEM — GitHub Profile README
      Paste this into: thasneem-s1102/thasneem-s1102/README.md
@@ -91,13 +96,8 @@ Intuitive interfaces, user flows, wireframes, and interactive prototypes — foc
 ---
 
 
-<div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=00bcd4&height=200&section=header&text=Hi,%20I'm%20Thasneem%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI/ML%20Engineer%20·%20Software%20Developer%20·%20UX%20Designer&descAlignY=55&descSize=16)
 
-</div>
-
-<p><em>CS (AIML) student passionate about...</em></p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=flat&logo=linkedin&logoColor=0077b5)](https://www.linkedin.com/in/thasneem-s1102)
 [![Email](https://img.shields.io/badge/Email-0d1117?style=flat&logo=gmail&logoColor=ea4335)](mailto:shakilathasneem9@gmail.com)
