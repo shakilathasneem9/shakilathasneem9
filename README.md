@@ -25,10 +25,10 @@ technically rigorous and intuitively usable.</em></p>
 <p align="center">
   <img src="./neural-net.gif" alt="skill map" />
 </p>
-## 🧠 Skill Map
 
+##  skill Map
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,numpy,pandas,git,github,vscode,jupyter,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,git,github,vscode,jupyter,figma&theme=dark" />
 </p>
 
 ## 🛠️ Tech Stack
