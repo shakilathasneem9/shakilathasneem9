@@ -12,9 +12,6 @@
 I bridge machine learning, software engineering, and design — creating solutions that are<br>
 technically rigorous and intuitively usable.</em></p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=flat&logo=linkedin&logoColor=0077b5)](https://www.linkedin.com/in/thasneem-s1102)
-[![Email](https://img.shields.io/badge/Email-0d1117?style=flat&logo=gmail&logoColor=ea4335)](mailto:shakilathasneem9@gmail.com)
-
 ---
 
 ## 🔭 Currently Exploring
@@ -25,8 +22,14 @@ technically rigorous and intuitively usable.</em></p>
 - 🚀 **Full-stack product development** — from wireframe to deployment
 
 ---
+<p align="center">
+  <img src="./neural-net.gif" alt="skill map" />
+</p>
+## 🧠 Skill Map
 
-## 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,numpy,pandas,git,github,vscode,jupyter,figma&theme=dark" />
+</p>
 
 ## 🛠️ Tech Stack
 
@@ -86,6 +89,17 @@ Intuitive interfaces, user flows, wireframes, and interactive prototypes — foc
 
 ---
 
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?...)](https://git.io/typing-svg)
+
+<p><em>CS (AIML) student passionate about...</em></p>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=flat&logo=linkedin&logoColor=0077b5)](https://www.linkedin.com/in/thasneem-s1102)
+[![Email](https://img.shields.io/badge/Email-0d1117?style=flat&logo=gmail&logoColor=ea4335)](mailto:shakilathasneem9@gmail.com)
+
+
+</div>
 <p align="center">
   <i>Thanks for stopping by — feel free to ⭐ anything that interests you!</i>
 </p>
