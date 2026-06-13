@@ -6,7 +6,7 @@
 <div align="center">
 
 <!-- Typing SVG header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00BCD4¢er=true&vCenter=true&width=600&lines=Hi%2C+I'm+Thasneem+%F0%9F%91%8B;AI%2FML+Engineer+in+the+making;Software+Developer+%7C+UX+Designer;Building+intelligent+experiences)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00BCD4&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Thasneem+%F0%9F%91%8B;AI%2FML+Engineer+in+the+making;Software+Developer+%7C+UX+Designer;Building+intelligent+experiences)](https://git.io/typing-svg)
 
 <p><em>CS (AIML) student passionate about building intelligent, user-centered digital experiences.<br>
 I bridge machine learning, software engineering, and design — creating solutions that are<br>
@@ -62,13 +62,15 @@ Intuitive interfaces, user flows, wireframes, and interactive prototypes — foc
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thasneem-s1102&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00bcd4&icon_color=00bcd4&text_color=c9d1d9" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thasneem-s1102&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00bcd4&text_color=c9d1d9" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shakilathasneem9&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00bcd4&icon_color=00bcd4&text_color=c9d1d9" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakilathasneem9&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00bcd4&text_color=c9d1d9" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=thasneem-s1102&theme=tokyonight&hide_border=true&background=0d1117&ring=00bcd4&fire=00bcd4&currStreakLabel=00bcd4" />
+  <img src="https://streak-stats.demolab.com?user=shakilathasneem9&theme=tokyonight&hide_border=true&background=0d1117&ring=00bcd4&fire=00bcd4&currStreakLabel=00bcd4" />
 </p>
 
 ---
