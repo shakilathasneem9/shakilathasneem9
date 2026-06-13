@@ -63,20 +63,38 @@ technically rigorous and intuitively usable.</em></p>
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 </div>
+<div align="center">
+
 ## 🌟 Featured Projects
+
+---
 
 ### 🧬 MR-Prioritization for Machine Learning
 Research exploring mutation testing and ML model evaluation — improving test efficiency through metamorphic relation prioritization.
-`Python` `Mutation Testing` `Research`
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Mutation Testing](https://img.shields.io/badge/Mutation%20Testing-6A0DAD?style=for-the-badge)
+![Research](https://img.shields.io/badge/Research-2E86AB?style=for-the-badge)
+
+---
 
 ### 🖼️ CIFAR-10 ResNet18 Classification
 Deep learning image classification using PyTorch and transfer learning with ResNet18 on the CIFAR-10 benchmark.
-`PyTorch` `Computer Vision` `Deep Learning`
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-00897B?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge)
+
+---
 
 ### 🎨 UI/UX Design Projects
 Intuitive interfaces, user flows, wireframes, and interactive prototypes — focused on usability and accessibility.
-`Figma` `Product Design` `UX Research`
 
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Product Design](https://img.shields.io/badge/Product%20Design-7C4DFF?style=for-the-badge)
+![UX Research](https://img.shields.io/badge/UX%20Research-0288D1?style=for-the-badge)
+
+</div>
 ---
 
 ## 📊 GitHub Stats
