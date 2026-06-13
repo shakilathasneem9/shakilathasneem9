@@ -90,9 +90,12 @@ Intuitive interfaces, user flows, wireframes, and interactive prototypes — foc
 
 ---
 
+
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?...)](https://git.io/typing-svg)
+![header](https://capsule-render.vercel.app/api?type=waving&color=00bcd4&height=200&section=header&text=Hi,%20I'm%20Thasneem%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI/ML%20Engineer%20·%20Software%20Developer%20·%20UX%20Designer&descAlignY=55&descSize=16)
+
+</div>
 
 <p><em>CS (AIML) student passionate about...</em></p>
 
