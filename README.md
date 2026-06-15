@@ -24,7 +24,6 @@ technically rigorous and intuitively usable.</em></p>
 - 🤖 **Machine Learning & Deep Learning** — PyTorch, CNNs, model evaluation
 - 🧪 **Mutation Testing** — MR-Prioritization for ML model robustness
 - 🎨 **UI/UX Design** — Figma, design systems, accessibility-first prototyping
-- 🚀 **Full-stack product development** — from wireframe to deployment
 
 ---
 <p align="center">
